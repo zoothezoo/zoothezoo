@@ -1,4 +1,4 @@
-# Hi, zoothezoo:tada:
+# Hi, I'm zoothezoo:tada:
 > Graduate Student
 > 24 years old
 
