@@ -1,5 +1,4 @@
-# Welcome:tada:
-## zoothezoo
+# Hi, zoothezoo:tada:
 > Graduate Student
 > 24 years old
 
