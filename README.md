@@ -1,6 +1,6 @@
 # Hi, I'm zoothezoo:tada:
-> Graduate Student
-> 24 years old
+> Android App Developer
+> 2５ years old
 > 
 
 <a href="https://twitter.com/zoothezoo_pro"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" alt="zoothezoo's Twitter Profile" width="80"></a>
