@@ -1,8 +1,59 @@
-# Hi, I'm zoothezoo:tada:
-> Android App Developer
-> 2５ years old
-> 
+<p align="center">
+  <a href="https://github.com/zoothezoo">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Kohei+Ikezu;Mobile+Engineer+%F0%9F%93%B1;Android+%7C+Flutter+Developer" alt="Typing SVG" />
+  </a>
+</p>
 
-<a href="https://twitter.com/zoothezoo_pro"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" alt="zoothezoo's Twitter Profile" width="80"></a>
+<p align="center">
+  <a href="https://twitter.com/zoothezoo_pro"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://github.com/zoothezoo"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=zoothezoo&style=for-the-badge&color=6366F1" alt="Profile Views" />
+</p>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zoothezoo&count_private=true&show_icons=true&title_color=051B31&text_color=F5FAFA&icon_color=EB4F57&bg_color=1F8B8F)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+## About Me
+
+- Mobile Engineer at **Tapple, Inc.** (CyberAgent Group)
+- Developing [tapple](https://tapple.me/), [Koigram](https://koigram.net/), [Koiキャラメーカー](https://koigram.net/koichara/)
+- Android / Flutter Developer
+
+---
+
+## Tech Stack
+
+### Languages
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Frameworks & Tools
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
+## Skills
+
+| Category | Technologies |
+|----------|--------------|
+| Android | Kotlin, Jetpack Compose, MVVM, Clean Architecture |
+| Cross-platform | Flutter, Dart |
+| Frontend | Flutter on the Web |
+| Architecture | MVVM, Clean Architecture, Multi-module |
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=zoothezoo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zoothezoo&theme=tokyo-night&hide_border=true&area=true&from=2021-04-01" alt="Activity Graph" />
+</p>
+
